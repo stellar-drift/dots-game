@@ -1,0 +1,41 @@
+
+# -- settings -- #
+
+# screen set up
+WIDTH = 840
+HEIGHT = 680
+FPS = 60
+TOP_MARGIN = 60
+
+
+# player dot
+DOT_RADIUS = 8
+PLAYER_SPEED = 5
+
+
+# collectibles
+COLLECTIBLE_RADIUS = 4
+
+# colors
+PLAYER_COLOR =  (17, 179, 131)
+COLLECTIBLE_COLOR = (255, 215, 0)
+ENEMY_COLOR = (217, 0, 87) #(221, 23, 135) #(185, 19, 113)
+ENEMY_CHASE_COLOR = (255, 60, 89) #(221, 23, 135)
+SCORE_COLOR = (219, 221, 203)
+SCORE_BAR_COLOR = (31, 51, 30)
+BACKGROUND_COLOR = (46, 76, 45)
+
+
+# font
+FONT_NAME = "Courier New"
+FONT_SIZE_LG = 40
+FONT_SIZE_SM = 18
+FONT_SIZE_POPUP = 16
+
+
+
+
+
+
+
+
