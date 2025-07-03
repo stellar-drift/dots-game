@@ -27,6 +27,7 @@ Requirements
 
 
 Project Structure
+```
 .
 |-- main.py             # Game loop and event handling
 |-- settings.py         # Configurations and constants
@@ -39,6 +40,7 @@ Project Structure
 |   |-- enemy_alert.mp3
 |   |-- game_over.mp3
 |   |-- spiritual_evolution_dance.mp3
+```
 
         ** sound effects found on pixabay
         ** background music found on internet archive
@@ -46,6 +48,7 @@ Project Structure
 
 
 How to Run the Game (if downloaded)
+
        ** the download file only is only for macOS at the moment
 
 On macOS (.app)
