@@ -10,6 +10,7 @@ Gameplay
 - Game ends when you're caught
 
 
+
 Features
 - 2D pixel-style visuals using Pygame's built-in drawing tools
 - Dynamic enemy AI with color & speed boost
@@ -17,13 +18,17 @@ Features
 - Sound effects and background music
 - Game over overlay with clickable buttons
 
+
+
 Future
 - Currently game just starts once opened, will need to add a start screen 
+
 
 
 Requirements
 - Python 3.8+
 - Pygame (https://pypi.org/project/pygame/)
+
 
 
 Project Structure
@@ -47,13 +52,14 @@ Project Structure
 
 
 
-How to Run the Game (if downloaded)
 
-       ** the download file only is only for macOS at the moment
+How to Run the Game (if downloaded)
 
 On macOS (.app)
 1. Download 
 2. Double-click the DotsGame.app file to open
 3. If macOS warns about the app being from an unidentified developer, right click (or Ctrl_click) the app and select Open, then confirm you want to run it
 4. Enjoy playing!
+
+          ** the download file only is only for macOS at the moment
 
