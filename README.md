@@ -2,6 +2,8 @@
 Just a little game built with Pygame (https://www.pygame.org/), done for practice
 
 
+Download: https://github.com/stellar-drift/dots-game/releases/tag/v1.0
+
 
 Gameplay
 - Use arrow keys to move your dot
